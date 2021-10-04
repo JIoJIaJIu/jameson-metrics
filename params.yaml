@@ -7,4 +7,4 @@ drop_l:
 - 5
 dropout: 0.289
 inter: 8.0
-moment: 0.75
+moment: 0.1
